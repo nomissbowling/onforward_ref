@@ -1,0 +1,18 @@
+[package]
+name = "onforward_ref"
+version = "0.0.1" # change with html_root_url in lib.rs
+edition = "2021"
+authors = ["nomissbowling <nomissbowling@yahoo.co.jp>"]
+
+description = "onforward_ref_* macros auto generate standard implementation of operator overloading without Copy derive"
+keywords = ["operators", "op", "ops", "overload", "overloading"]
+categories = ["rust-patterns"]
+license = "MIT"
+
+documentation = "https://docs.rs/onforward_ref/"
+homepage = "https://crates.io/crates/onforward_ref"
+repository = "https://github.com/nomissbowling/onforward_ref"
+
+readme = "README.md"
+
+[dependencies]
